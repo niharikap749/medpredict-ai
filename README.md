@@ -1,1 +1,0 @@
-# medpredict-ai
